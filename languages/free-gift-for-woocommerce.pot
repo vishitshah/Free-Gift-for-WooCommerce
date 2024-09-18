@@ -1,0 +1,155 @@
+# Copyright (C) 2024 vishitshah
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Free Gift for WooCommerce 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/free-gift-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T18:08:38+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: free-gift-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: free-gift-for-woocommerce.php
+msgid "Free Gift for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: free-gift-for-woocommerce.php
+msgid "https://wordpress.org/plugins/free-gift-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+#: free-gift-for-woocommerce.php
+msgid "This simple plugin for WooСommerce allows to specify a free product for all customers which will be added to the cart automatically and always."
+msgstr ""
+
+#. Author of the plugin
+#: free-gift-for-woocommerce.php
+msgid "vishitshah"
+msgstr ""
+
+#. Author URI of the plugin
+#: free-gift-for-woocommerce.php
+msgid "https://vishitshah.com"
+msgstr ""
+
+#: includes/class-gift-add.php:172
+#: includes/class-wc-settings.php:24
+msgid "Free Gift"
+msgstr ""
+
+#: includes/class-main.php:22
+#: includes/class-wc-settings.php:151
+msgid "Congratulations! You have received a free gift!"
+msgstr ""
+
+#: includes/class-main.php:46
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-inactive.php:19
+msgid "Free Gift for WooCommerce needs WooCommerce to run. Please, install and active WooCommerce plugin."
+msgstr ""
+
+#: includes/class-wc-settings.php:59
+msgid "Products and Quantity"
+msgstr ""
+
+#: includes/class-wc-settings.php:60
+msgid "Specify the IDs of the products which will be the gifts."
+msgstr ""
+
+#: includes/class-wc-settings.php:66
+msgid "Product IDs"
+msgstr ""
+
+#. translators: %s is the link to an article explaining how to find product category IDs.
+#: includes/class-wc-settings.php:68
+msgid "For more information read %s this article."
+msgstr ""
+
+#. translators: %s is the link to an article explaining how to find product category IDs.
+#: includes/class-wc-settings.php:69
+msgid "Set IDs of products to be a gift separated by a comma (without spaces)."
+msgstr ""
+
+#: includes/class-wc-settings.php:76
+msgid "Quantity"
+msgstr ""
+
+#: includes/class-wc-settings.php:77
+msgid "Leave the field blank to set the quantity of each gift equal to 1."
+msgstr ""
+
+#: includes/class-wc-settings.php:78
+msgid "Set quantity for each gift separated by a comma (without spaces)."
+msgstr ""
+
+#: includes/class-wc-settings.php:91
+msgid "Conditions"
+msgstr ""
+
+#: includes/class-wc-settings.php:92
+msgid "Select the conditions for displaying and working gifts."
+msgstr ""
+
+#: includes/class-wc-settings.php:98
+msgid "Label in Cart"
+msgstr ""
+
+#. Translators: %1$s and %2$s are HTML <code> tags used to highlight the "Free Gift" text.
+#: includes/class-wc-settings.php:101
+msgid "Show %1$sFree Gift%2$s labels for the gifts in cart?"
+msgstr ""
+
+#: includes/class-wc-settings.php:112
+msgid "Only for Authorized"
+msgstr ""
+
+#: includes/class-wc-settings.php:113
+msgid "Give the gifts only for authorized users?"
+msgstr ""
+
+#. translators: %s is the WooCommerce currency.
+#: includes/class-wc-settings.php:121
+msgid "Minimum Order Amount in %s"
+msgstr ""
+
+#. translators: %s is the WooCommerce currency.
+#: includes/class-wc-settings.php:122
+msgid "Set minimum order amount for adding gifts."
+msgstr ""
+
+#: includes/class-wc-settings.php:123
+msgid "You can leave the field blank to hide this limit."
+msgstr ""
+
+#: includes/class-wc-settings.php:134
+msgid "Order amount type."
+msgstr ""
+
+#: includes/class-wc-settings.php:139
+msgid "Subtotal"
+msgstr ""
+
+#: includes/class-wc-settings.php:140
+msgid "Total"
+msgstr ""
+
+#: includes/class-wc-settings.php:146
+msgid "Message About Gift"
+msgstr ""
+
+#: includes/class-wc-settings.php:147
+msgid "Leave the field blank to hide the message."
+msgstr ""
+
+#: includes/class-wc-settings.php:148
+msgid "Set text about free gift in WooCommerce notification area."
+msgstr ""
