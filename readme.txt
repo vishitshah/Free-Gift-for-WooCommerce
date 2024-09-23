@@ -1,8 +1,8 @@
 === Free Gift for WooCommerce ===
 Plugin Name: Free Gift for WooCommerce
 Plugin URI: https://technobrains.in/
-Author: vishitshah
-Contributors: vishitshah
+Author: technobrains, vishitshah
+Contributors: technobrains, vishitshah
 Tags: woocommerce, woocommerce gift, free gift, gift, free product
 Requires at least: 5.2
 Tested up to: 6.6.2

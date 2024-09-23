@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/free-gift-for-woocommerce/
  * Description: This simple plugin for WooСommerce allows to specify a free product for all customers which will be added to the cart automatically and always.
  * Version: 1.1
- * Author: vishitshah
+ * Author: technobrains, vishitshah
  * Author URI: https://vishitshah.com
  * Text Domain: free-gift-for-woocommerce
  * Domain Path: /languages
